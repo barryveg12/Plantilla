@@ -1,3 +1,126 @@
 {
-  "users": []
+  "users": [
+    {
+      "id": "0b33",
+      "inputNombre": "Naomy",
+      "inputCorreo": "naomy@gmail.com",
+      "inputContra": "1234"
+    },
+    {
+      "id": "07b9",
+      "inputNombre": "Javier",
+      "inputCorreo": "jasore2003@gmail.com",
+      "inputContra": "2020",
+      "inputID": "180"
+    },
+    {
+      "id": "89d1",
+      "inputNombre": "Javier Solis Retana",
+      "inputCorreo": "juan70@gmail.com",
+      "inputContra": "1234",
+      "inputID": "128"
+    },
+    {
+      "id": "6df2",
+      "inputNombre": "Javier Solis Retana",
+      "inputCorreo": "jasore20@gmail.com",
+      "inputContra": "6060",
+      "inputID": "0987"
+    },
+    {
+      "id": "3e4d",
+      "inputNombre": "Edgar",
+      "inputCorreo": "fgwrgwg@gmail.com",
+      "inputContra": "1234",
+      "inputID": "7676"
+    },
+    {
+      "id": "c1f6",
+      "inputNombre": "Javier Solis Retana",
+      "inputCorreo": "javier@gmail.com",
+      "inputContra": "1234",
+      "inputID": "1256"
+    },
+    {
+      "id": "5479",
+      "inputNombre": "Pepe",
+      "inputCorreo": "jasore20@gmail.com",
+      "inputContra": "1234",
+      "inputID": "4455"
+    },
+    {
+      "id": "8539",
+      "inputNombre": "jsjs",
+      "inputCorreo": "jsjs@gmail.com",
+      "inputContra": "1234",
+      "inputID": "1234"
+    },
+    {
+      "id": "fd75",
+      "inputNombre": "Juan",
+      "inputCorreo": "juan70@gmail.com",
+      "inputContra": "1234",
+      "inputID": "1234"
+    },
+    {
+      "id": "581f",
+      "inputNombre": "Edgar",
+      "inputCorreo": "juan70@gmail.com",
+      "inputContra": "1234",
+      "inputID": "1234"
+    },
+    {
+      "id": "329f",
+      "inputNombre": "Michelle",
+      "inputCorreo": "michelle@.com",
+      "inputContra": "1234",
+      "inputID": "1234"
+    },
+    {
+      "id": "4422",
+      "inputNombre": "Edgar",
+      "inputCorreo": "jasore2003@gmail.com",
+      "inputContra": "1234",
+      "inputID": "1234"
+    },
+    {
+      "id": "d1bb",
+      "inputNombre": "Moha",
+      "inputCorreo": "moha@.com",
+      "inputContra": "1234",
+      "inputID": "1234"
+    },
+    {
+      "id": "54c5",
+      "inputNombre": "Javier Solis Retana",
+      "inputCorreo": "jaso12@gmail.com",
+      "inputContra": "1234",
+      "inputID": "1234"
+    },
+    {
+      "id": "fc85",
+      "inputNombre": "Pepe",
+      "inputCorreo": "pepinbananin@gmail.com",
+      "inputContra": "6969",
+      "inputID": "1"
+    }
+  ],
+  "consultas": [
+    {
+      "id": "57f3",
+      "nombre": "b",
+      "tipoConsulta": "Justificar Ausencia",
+      "consultas": "b",
+      "fecha": "2020-02-20",
+      "time": "20:20"
+    },
+    {
+      "id": "ab37",
+      "nombre": "Moha",
+      "tipoConsulta": "Permiso de Salida",
+      "consultas": "12",
+      "fecha": "2020-02-12",
+      "time": "02:20"
+    }
+  ]
 }
